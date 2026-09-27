@@ -37,8 +37,6 @@ Senior Software Engineer turned Team Lead, though you'll still find me in the co
    <i>"There is only one way to eat an elephant, a bite at a time." - Desmond Tutu</i>
    <br>
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/omalleysam"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://stackoverflow.com/users/1660501/samuel-omalley"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/sam-omalley"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <br>
 </p>
