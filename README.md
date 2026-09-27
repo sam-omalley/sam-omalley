@@ -25,7 +25,7 @@ Senior Software Engineer turned Team Lead, though you'll still find me in the co
 ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ![FluxCD](https://img.shields.io/static/v1?style=for-the-badge&message=Flux&color=5468FF&logo=Flux&logoColor=FFFFFF&label=)
 
-### Fun Projects
+### For Fun
 
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![Godot Engine](https://img.shields.io/static/v1?style=for-the-badge&message=Godot+Engine&color=478CBF&logo=Godot+Engine&logoColor=FFFFFF&label=)
