@@ -5,7 +5,7 @@
 
 Senior Software Engineer turned Team Lead, though you'll still find me in the code more often than not. I like hard problems, building things that last, and automating anything that moves.
 
-*Most of my work is private, so public activity here is mostly personal projects.*
+*All of my professional work is private, so public activity here is limited to personal projects.*
 
 ### Systems
 
